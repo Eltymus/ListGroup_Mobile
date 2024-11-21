@@ -16,3 +16,6 @@ I’ll explore other technologies as I go. I’m open to guidance and advice; I�
 Design Completed!
 The link to the Figma page is here. Even if the final result isn’t identical, I’ll be more than satisfied with something similar.
 All the image components will be placed in a folder within the repository; they are all royalty-free.
+
+Link to design:
+https://www.figma.com/proto/k9AIFx6sZ0zd57FyrOcIgZ/List-Library?node-id=19-145&node-type=canvas&t=JcgvT4Ji8pWcOI4e-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
