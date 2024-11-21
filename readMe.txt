@@ -12,3 +12,8 @@ Utilizzerò come IDE Android Studio.
 
 Vedrò altre tecnologie strada facendo. Sono disponibile per essere guidato e consigliato, sono ancora un junior ma punto a creare quest'app per vedere il frutto di tutte le lezioni e i corsi che ho seguito"
 
+21/11/2024
+Design Completato! 
+Il link per la pagina di figma è qui , anche se non sarà identico sarò più che soddisfatto di un risultato simile
+tutti i componenti delle immagini saranno messi in una cartella nella repository ; 
+sono tutti royalty free . 
