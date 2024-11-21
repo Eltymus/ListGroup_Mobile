@@ -1,12 +1,12 @@
-"Questa è la repository di una app che voglio sviluppare come progetto personale.
+Questa è la repository di una app che voglio sviluppare come progetto personale.
 
-la app ha una sola funzione , avere liste con ceckbox che possono essere condivise ed editate facilmente anche da più persone nello stesso momento.
+la app ha una sola funzione, avere liste con ceckbox che possono essere condivise ed editate facilmente anche da più persone nello stesso momento.
 
-Per il front end utilizerò : Kotlin , il linguaggio ufficiale di android e mi sembra più adatto per questo compito.
+Per il front end utilizerò: Kotlin, il linguaggio ufficiale di android e mi sembra più adatto per questo compito.
 
 Per il Back end la mia ricerca mi ha puntato su Firebase, che a quanto ho letto , è ottimizzato per lo sviluppo mobile e la gestione dei dati in contemporanea.
 
-Per il database , utilizzando Firebase , Firestone sembra la scelta migliore.
+Per il database, utilizzando Firebase, Firestone sembra la scelta migliore.
 
 Utilizzerò come IDE Android Studio.
 
@@ -14,6 +14,8 @@ Vedrò altre tecnologie strada facendo. Sono disponibile per essere guidato e co
 
 21/11/2024
 Design Completato! 
-Il link per la pagina di figma è qui , anche se non sarà identico sarò più che soddisfatto di un risultato simile
-tutti i componenti delle immagini saranno messi in una cartella nella repository ; 
-sono tutti royalty free . 
+Il link per la pagina di figma è qui, anche se non sarà identico sarò più che soddisfatto di un risultato simile
+tutti i componenti delle immagini saranno messi in una cartella nella repository, sono tutti royalty free. 
+
+link al design:
+https://www.figma.com/proto/k9AIFx6sZ0zd57FyrOcIgZ/List-Library?node-id=19-145&node-type=canvas&t=JcgvT4Ji8pWcOI4e-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
